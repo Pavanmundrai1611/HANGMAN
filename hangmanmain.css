@@ -1,0 +1,67 @@
+
+
+#dash_space{
+    display: block;
+    margin: auto;
+    text-align: center;
+    font-size: 90px;
+    padding-top: 20px;
+
+}
+
+body{
+	background-color:#057973;
+}
+
+#h1_Text{ 
+	color:#38f7f7;
+	margin-top:20px;
+
+	text-align: center;
+	font-size:100px;
+}
+
+ #type{
+ 	width: 170px;
+    margin: auto;
+    text-align: center;
+ }
+
+ #type_text{
+ 	color:black;
+ 	font-size:30px;
+ 	margin-right: 15px;
+ }
+
+ #button_ok{
+ 	background-color: #001111;
+    float: right;
+    color: gold;
+    border-radius: 10px;
+    border: 2px solid #b69c08;
+    
+ }
+
+ #text_box{
+ 	width:165px;
+ 	background-color:#bb7fae;
+ 	border-color:black;
+ 	border-radius:4px;
+ }
+
+ .heart{
+ 	width: 800px;
+   margin: auto;
+   margin-top: 30px;
+   text-align: center;
+ }
+ img{
+     width: 60px;
+     height: 50px;
+ }
+
+
+ #hint{
+ 	font-family: 'Architects Daughter', cursive, sans-serif; 
+	font-weight: 500px;
+ }
